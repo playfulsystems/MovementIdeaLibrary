@@ -6,7 +6,7 @@ public class RotateBothDirections : MonoBehaviour
 {
     public KeyCode keyClockwise;
     public KeyCode keyCounterClockwise;
-    float speed = 5f;
+    float speed = 4f;
 
     // Update is called once per frame
     void Update()
